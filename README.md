@@ -1,5 +1,5 @@
 
-```markdown
+
 # PHP Changelog Fetcher
 
 This project is a PHP script designed to fetch and compile the changelog of PHP functions from the official PHP documentation website. The changelogs are consolidated into a single HTML file for easy reference.
@@ -18,7 +18,7 @@ This project is a PHP script designed to fetch and compile the changelog of PHP 
 
 ## Installation
 
-1. **Clone the repository:**
+1. **Clone the repository**:
    ```sh
    git clone https://github.com/denizvatan/php-changelog-fetcher.git
    cd php-changelog-fetcher
@@ -35,7 +35,7 @@ This project is a PHP script designed to fetch and compile the changelog of PHP 
    ```
 
 2. **Continue from a specific function title (if needed):**
-   If the process was interrupted and you need to continue from a specific function, you can modify the script to call `continueFromTitle` method with the desired function title.
+   If the process is interrupted and you need to continue from a specific function, you can modify the script to call `continueFromTitle` method with the desired function title.
 
 ## Example
 
@@ -102,4 +102,4 @@ Feel free to submit issues and enhancement requests.
 Deniz Vatan Buyorük - [denizvtn@gmail.com](mailto:denizvtn@gmail.com)
 
 Project Link: [https://github.com/denizvatan/php-changelog-fetcher](https://github.com/denizvatan/php-changelog-fetcher)
-```
+
